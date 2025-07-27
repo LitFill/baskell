@@ -1,0 +1,14 @@
+dist-newstyle/
+*.o
+*.hi
+*.dyn_o
+*.dyn_hi
+.hs~
+*.prof
+*.aux
+*.hp
+*.eventlog
+.stack-work/
+cabal.project.local
+cabal.project.local~
+.ghc.environment.*
